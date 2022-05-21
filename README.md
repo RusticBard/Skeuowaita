@@ -20,7 +20,7 @@ git clone https://github.com/Ashwatthaamaa/Neuwaita.git /usr/share/icons/Neuwait
 ```
 
 ## Requesting new icons:
-I understand you really want the icon but when making an icon request please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
+I understand you really want the icon but when making an icon request, please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
 
 ### How to find the **Actual name** of the icon?
 You're searching for the [reverse domain name notation](https://en.wikipedia.org/wiki/Reverse_domain_name_notation) (e.g `org.mozilla.firefox` for Firefox) it can be found in different ways:
