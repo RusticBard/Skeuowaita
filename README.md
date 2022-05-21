@@ -6,7 +6,7 @@ A neumorphic take on adwaita theme
 [showcase]: img/Showcase.png "Showcase image"
 
 ## Installation
-Clone the repository inside `~/.icons` and select the theme in gnome-tweaks
+Clone the repository inside `~/.local/share/icons` and select the theme in gnome-tweaks
 
 ## Requesting for new icons :
 I understand you really want the icon but while making an icon request please mention actual name of the icon file that you want to request.
