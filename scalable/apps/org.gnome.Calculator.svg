@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="org.gnome.Calculator.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,16 +27,17 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="2.9502554"
-     inkscape:cx="47.284043"
-     inkscape:cy="73.891909"
+     inkscape:zoom="4.1722912"
+     inkscape:cx="45.898043"
+     inkscape:cy="41.583866"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -247,7 +248,7 @@
        x2="305.32831"
        y2="26.324486"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.13949902,0,0,0.14206942,26.205053,13.284682)" />
+       gradientTransform="matrix(0.1583634,0,0,0.1612814,21.094059,13.013137)" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath966">
@@ -311,23 +312,23 @@
        rx="8"
        ry="8" />
     <rect
-       style="fill:#5e7d48;fill-opacity:1;stroke:none;stroke-width:0.466042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#5e7d48;fill-opacity:1;stroke:none;stroke-width:0.529065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4359"
-       width="60.98053"
-       height="13.164759"
-       x="33.509735"
-       y="23.5"
-       rx="2.5879509"
-       ry="3.0373516" />
+       width="69.226898"
+       height="14.945023"
+       x="29.386551"
+       y="24.609867"
+       rx="2.9379184"
+       ry="3.4480913" />
     <rect
-       style="fill:url(#linearGradient2897);stroke-width:3.64178"
+       style="fill:url(#linearGradient2897);stroke-width:4.13426"
        id="rect958"
-       width="60.980518"
-       height="11.91926"
-       x="33.509735"
-       y="24.745501"
-       rx="2.5879509"
-       ry="3.0373516" />
+       width="69.226883"
+       height="13.531096"
+       x="29.386551"
+       y="26.023796"
+       rx="2.9379184"
+       ry="3.4480913" />
     <rect
        style="opacity:0.3;fill:#999999;stroke-width:1.81804"
        id="rect1812"
