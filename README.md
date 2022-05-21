@@ -1,5 +1,5 @@
 # Neuwaita
-A neumorphic take on adwaita theme
+A neumorphic take on the Adwaita theme
 
 ![icons showcase][showcase]                                                                                  
 
