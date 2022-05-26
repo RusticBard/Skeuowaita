@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="org.gnome.Terminal.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.6958486"
-     inkscape:cx="-35.675354"
-     inkscape:cy="27.714738"
+     inkscape:zoom="4.0307192"
+     inkscape:cx="106.30857"
+     inkscape:cy="67.109612"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -45,7 +45,8 @@
      inkscape:object-paths="false"
      inkscape:object-nodes="false"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true" />
+     inkscape:snap-smooth-nodes="true"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -127,27 +128,27 @@
        inkscape:collect="always"
        id="linearGradient8241">
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0"
          id="stop8237" />
       <stop
-         style="stop-color:#666666;stop-opacity:1"
+         style="stop-color:#cccccc;stop-opacity:1"
          offset="0.05"
          id="stop9349" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0.1"
          id="stop21746" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0.89999998"
          id="stop21940" />
       <stop
-         style="stop-color:#666666;stop-opacity:1"
+         style="stop-color:#cccccc;stop-opacity:1"
          offset="0.94999999"
          id="stop9351" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="1"
          id="stop8239" />
     </linearGradient>
@@ -301,7 +302,7 @@
        rx="8"
        ry="8" />
     <rect
-       style="fill:#7a7a7a;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="rect358"
        width="105"
        height="105"
@@ -309,6 +310,19 @@
        y="7.5"
        rx="8"
        ry="8" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.955467"
+       id="rect338"
+       width="100.324"
+       height="100.324"
+       x="13.838"
+       y="9.8380003"
+       rx="7.6437335"
+       ry="7.6437335" />
+    <path
+       id="path489"
+       style="color:#000000;fill:#333333;stroke-width:0.407808;-inkscape-stroke:none"
+       d="m 34.767578,33.652344 -6.865234,6.867187 v 4 L 45.318359,61.935547 27.902344,79.353516 v 4 l 6.865234,6.865234 26.283203,-26.283203 v -4 z" />
     <path
        id="path957"
        style="color:#000000;fill:#b3b3b3;stroke-width:0.407808;-inkscape-stroke:none"
@@ -317,6 +331,10 @@
        style="color:#000000;fill:#e6e6e6;stroke-width:0.407808;-inkscape-stroke:none"
        d="m 34.768457,31.653018 -6.866737,6.866698 19.41661,19.416588 -19.41661,19.416592 6.866737,6.866698 26.28327,-26.28329 z"
        id="path2036-6" />
+    <path
+       id="path487"
+       style="color:#000000;fill:#333333;stroke-width:0.407808;-inkscape-stroke:none"
+       d="m 70.320312,78.509766 v 2 7.708984 2 h 31.986328 v -2 -7.708984 -2 z" />
     <path
        id="path959"
        style="color:#000000;fill:#b3b3b3;stroke-width:0.407808;-inkscape-stroke:none"
