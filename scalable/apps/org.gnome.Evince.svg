@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="org.gnome.Evince.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.4210806"
-     inkscape:cx="50.71497"
-     inkscape:cy="62.84564"
+     inkscape:zoom="4.860752"
+     inkscape:cx="56.267014"
+     inkscape:cy="85.686331"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -45,7 +45,8 @@
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -57,7 +58,7 @@
          id="stop7935" />
       <stop
          style="stop-color:#b71c1c;stop-opacity:1"
-         offset="0.34999999"
+         offset="0.30000001"
          id="stop8493" />
       <stop
          style="stop-color:#d32f2f;stop-opacity:1"
@@ -65,7 +66,7 @@
          id="stop8233" />
       <stop
          style="stop-color:#b71c1c;stop-opacity:1"
-         offset="0.64999998"
+         offset="0.69999999"
          id="stop8751" />
       <stop
          style="stop-color:#b71c1c;stop-opacity:1"
