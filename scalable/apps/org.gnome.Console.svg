@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="org.gnome.Console.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.8561436"
-     inkscape:cx="47.586402"
-     inkscape:cy="83.373451"
+     inkscape:zoom="2.7267053"
+     inkscape:cx="37.591155"
+     inkscape:cy="85.451112"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -311,25 +311,9 @@
        rx="7.6437335"
        ry="7.6437335" />
     <path
-       id="path489"
-       style="color:#000000;fill:#1c1c24;stroke-width:0.407808;-inkscape-stroke:none"
-       d="m 34.767578,33.652344 -6.865234,6.867187 v 4 L 45.318359,61.935547 27.902344,79.353516 v 4 l 6.865234,6.865234 26.283203,-26.283203 v -4 z" />
-    <path
-       id="path957"
-       style="color:#000000;fill:#2c89a0;stroke-width:0.407808;-inkscape-stroke:none"
-       d="m 34.767578,31.652344 -6.865234,6.867187 v 4 L 45.318359,59.935547 27.902344,77.353516 v 4 l 6.865234,6.865234 26.283203,-26.283203 v -4 z" />
-    <path
        style="color:#000000;fill:#9dd1dd;stroke-width:0.407808;-inkscape-stroke:none;fill-opacity:1"
        d="m 34.768457,31.653018 -6.866737,6.866698 19.41661,19.416588 -19.41661,19.416592 6.866737,6.866698 26.28327,-26.28329 z"
        id="path2036-6" />
-    <path
-       id="path487"
-       style="color:#000000;fill:#1c1c24;stroke-width:0.407808;-inkscape-stroke:none"
-       d="m 70.320312,78.509766 v 2 7.708984 2 h 31.986328 v -2 -7.708984 -2 z" />
-    <path
-       id="path959"
-       style="color:#000000;fill:#2c89a0;stroke-width:0.407808;-inkscape-stroke:none"
-       d="m 70.320312,76.509766 v 2 7.708984 2 h 31.986328 v -2 -7.708984 -2 z" />
     <path
        style="color:#000000;fill:#9dd1dd;stroke-width:0.407808;-inkscape-stroke:none;fill-opacity:1"
        d="m 70.319894,74.509153 v 9.710441 h 31.987256 v -9.710441 z"

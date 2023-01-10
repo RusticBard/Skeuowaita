@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="org.gnome.Calculator.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="4.1722912"
-     inkscape:cx="45.898043"
-     inkscape:cy="41.583866"
+     inkscape:zoom="1.4751277"
+     inkscape:cx="177.9507"
+     inkscape:cy="-0.67790741"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -119,27 +119,27 @@
        inkscape:collect="always"
        id="linearGradient8241">
       <stop
-         style="stop-color:#b3b3b3;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="0"
          id="stop8237" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0.05"
          id="stop9349" />
       <stop
-         style="stop-color:#b3b3b3;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="0.1"
          id="stop21746" />
       <stop
-         style="stop-color:#b3b3b3;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="0.89999998"
          id="stop21940" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0.94999999"
          id="stop9351" />
       <stop
-         style="stop-color:#b3b3b3;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="1"
          id="stop8239" />
     </linearGradient>

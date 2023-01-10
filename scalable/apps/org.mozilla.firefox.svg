@@ -7,8 +7,8 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="firefox.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="org.mozilla.firefox.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,27 +27,28 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="4.956687"
-     inkscape:cx="51.34478"
-     inkscape:cy="59.51556"
+     inkscape:zoom="3.504907"
+     inkscape:cx="12.553828"
+     inkscape:cy="71.613883"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6595">
       <stop
-         style="stop-color:#d32353;stop-opacity:1;"
+         style="stop-color:#6c112a;stop-opacity:1;"
          offset="0"
          id="stop6591" />
       <stop
-         style="stop-color:#e92e5e;stop-opacity:1"
+         style="stop-color:#d91647;stop-opacity:1;"
          offset="1"
          id="stop6593" />
     </linearGradient>
@@ -55,7 +56,7 @@
        inkscape:collect="always"
        id="linearGradient203582">
       <stop
-         style="stop-color:#d66c00;stop-opacity:1"
+         style="stop-color:#9e4f00;stop-opacity:1;"
          offset="0"
          id="stop203578" />
       <stop
@@ -67,7 +68,7 @@
        inkscape:collect="always"
        id="linearGradient63723">
       <stop
-         style="stop-color:#d52123;stop-opacity:1"
+         style="stop-color:#b31c1d;stop-opacity:1;"
          offset="0"
          id="stop63719" />
       <stop

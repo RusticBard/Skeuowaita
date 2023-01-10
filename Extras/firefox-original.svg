@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="firefox-original.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,22 +27,23 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.3658603"
-     inkscape:cx="-23.062387"
-     inkscape:cy="122.9994"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-16.970563"
+     inkscape:cy="88.388347"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient32400">
       <stop
-         style="stop-color:#a4121e;stop-opacity:1"
+         style="stop-color:#7f0e17;stop-opacity:1;"
          offset="0"
          id="stop32396" />
       <stop
@@ -54,7 +55,7 @@
        inkscape:collect="always"
        id="linearGradient8150">
       <stop
-         style="stop-color:#9b105a;stop-opacity:1"
+         style="stop-color:#49092a;stop-opacity:1;"
          offset="0"
          id="stop8146" />
       <stop
@@ -702,12 +703,8 @@
        style="fill:url(#path1002_1_);stroke-width:0.190866" />
     <path
        id="path83237"
-       style="fill:#b98300;fill-opacity:1;stroke-width:0.190866"
+       style="fill:#ab7900;fill-opacity:1;stroke-width:0.190866"
        d="m 64.175527,53.902123 -6.085664,3.591159 1.078636,1.78657 c -0.647954,0.423465 -1.228209,0.697637 -1.629538,0.697637 -15.65614,0 -18.200354,9.476026 -18.200354,9.476026 0.05635,0.647621 0.154384,1.281967 0.272877,1.910137 0.956451,-2.200083 4.894141,-8.750072 17.927477,-8.750072 1.693741,0 6.536084,-4.724688 6.623694,-6.093386 z" />
-    <path
-       id="path1803"
-       style="fill:#b78200;stroke-width:0.190866;fill-opacity:1"
-       d="M 23.257812 53.902344 L 23.244141 55.884766 C 25.587784 60.959696 30.70146 64.171153 36.289062 64.089844 C 36.263954 64.311795 36.244642 64.536104 36.226562 64.759766 L 37.820312 65.660156 L 37.808594 53.902344 L 27.523438 53.902344 C 27.071658 54.053104 26.624703 54.22108 26.181641 54.402344 L 26.201172 54.21875 L 23.257812 53.902344 z " />
     <path
        id="path1000"
        fill="url(#path1000_1_)"

@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="org.gnome.Calendar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="2.2848073"
-     inkscape:cx="49.675962"
-     inkscape:cy="105.47936"
+     inkscape:zoom="1.1424037"
+     inkscape:cx="52.083167"
+     inkscape:cy="17.506947"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -43,7 +43,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:snap-intersection-paths="true"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -125,27 +126,27 @@
        inkscape:collect="always"
        id="linearGradient8241">
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="0"
          id="stop8237" />
       <stop
-         style="stop-color:#e6e6e6;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0.05"
          id="stop9349" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="0.1"
          id="stop21746" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="0.89999998"
          id="stop21940" />
       <stop
-         style="stop-color:#e6e6e6;stop-opacity:1"
+         style="stop-color:#b3b3b3;stop-opacity:1"
          offset="0.94999999"
          id="stop9351" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#999999;stop-opacity:1"
          offset="1"
          id="stop8239" />
     </linearGradient>
