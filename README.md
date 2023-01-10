@@ -1,6 +1,8 @@
 # Neuwaita
 A neumorphic take on the Adwaita theme
 
+(A little disclaimer, this is a forked repository or [Ashwatthaamaa/Neuwaita](https://github.com/Ashwatthaamaa/Neuwaita) which is also my repository but I lost the credentials of that account so a new repo.)
+
 ![icons showcase][showcase]                                                                                  
 
 [showcase]: img/Showcase.png "Showcase image"
