@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.142517"
-     inkscape:cx="-155.79637"
-     inkscape:cy="27.133075"
+     inkscape:zoom="2.285034"
+     inkscape:cx="51.202739"
+     inkscape:cy="28.008336"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -66,19 +66,19 @@
          offset="0"
          id="stop5164" />
       <stop
-         style="stop-color:#0b83e2;stop-opacity:1"
+         style="stop-color:#3785e4;stop-opacity:1;"
          offset="0"
          id="stop5462" />
       <stop
-         style="stop-color:#0b83e2;stop-opacity:1"
+         style="stop-color:#3785e4;stop-opacity:1;"
          offset="0.88639259"
          id="stop5722" />
       <stop
-         style="stop-color:#5ab0f4;stop-opacity:1;"
+         style="stop-color:#70adf0;stop-opacity:1;"
          offset="0.94881046"
          id="stop5592" />
       <stop
-         style="stop-color:#0b83e2;stop-opacity:1"
+         style="stop-color:#3785e4;stop-opacity:1;"
          offset="1"
          id="stop5166" />
     </linearGradient>
@@ -402,7 +402,7 @@
      inkscape:label="Layer 1">
     <path
        id="path864"
-       style="fill:#2791e4;fill-opacity:1;stroke-width:0.0656055"
+       style="fill:#3785e4;fill-opacity:1;stroke-width:0.0656055"
        d="m 21.756476,8.4523672 c -5.680229,0 -10.253122,4.7929148 -10.253122,10.7464468 v 7.272742 27.778412 4.705558 48.794014 0.78709 9.95936 H 21.756476 65.617713 106.2422 c 5.68023,0 10.25313,-4.44188 10.25313,-9.95936 v -0.78709 -48.147234 -33.13075 c 0,-5.517482 -4.5729,-9.959353 -10.25313,-9.959353 H 53.48989 L 45.800048,8.4523672 Z" />
     <path
        id="path1128"
@@ -419,7 +419,7 @@
        ry="5.2743082" />
     <path
        id="path854"
-       style="fill:#4facf4;fill-opacity:1;stroke-width:0.0532917"
+       style="fill:#7db4f0;fill-opacity:1;stroke-width:0.0532917"
        d="m 76.772071,37.574797 -7.686047,6.233978 H 21.803217 c -5.677428,0 -10.248065,2.892579 -10.248065,6.485607 v 21.153803 32.287615 6.48562 h 10.248065 43.8396 40.604443 c 5.67746,0 10.24807,-2.8926 10.24807,-6.48562 V 64.669381 50.294382 44.669191 c 0,-3.930296 -4.57063,-7.094394 -10.24807,-7.094394 z" />
   </g>
 </svg>

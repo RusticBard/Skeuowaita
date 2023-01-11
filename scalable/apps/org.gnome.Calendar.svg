@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.1424037"
-     inkscape:cx="52.083167"
-     inkscape:cy="17.506947"
+     inkscape:zoom="2.2848074"
+     inkscape:cx="24.072051"
+     inkscape:cy="38.077608"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -208,7 +208,8 @@
        y1="120.5"
        x2="116.5"
        y2="120.5"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.98433623,0,0.24278839)" />
     <radialGradient
        r="32"
        fy="-76"
@@ -909,24 +910,28 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 1">
+    <path
+       id="rect505"
+       style="fill:#af291f;fill-opacity:1"
+       d="M 11.5 103.79297 L 11.5 112.5 C 11.5 116.932 15.068004 120.5 19.5 120.5 L 108.5 120.5 C 112.932 120.5 116.5 116.932 116.5 112.5 L 116.5 103.79297 C 116.5 104.18448 116.15818 104.5 115.73438 104.5 L 12.265625 104.5 C 11.84182 104.5 11.5 104.18448 11.5 103.79297 z " />
     <rect
-       style="fill:url(#linearGradient8243);fill-opacity:1"
+       style="fill:url(#linearGradient8243);fill-opacity:1;stroke-width:0.992137"
        id="rect440"
        width="105"
-       height="105"
+       height="103.3553"
        x="11.5"
        y="15.5"
        rx="8"
-       ry="8" />
+       ry="7.8746901" />
     <rect
-       style="fill:#f9f9f9;fill-opacity:1"
+       style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.998315"
        id="rect358"
        width="105"
-       height="105"
+       height="104.64648"
        x="11.5"
        y="7.5"
        rx="8"
-       ry="8" />
+       ry="7.9730654" />
     <path
        id="path1049"
        style="fill:#1565c0;stroke-width:0.170301"
