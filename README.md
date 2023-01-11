@@ -34,3 +34,6 @@ You're searching for the [reverse domain name notation](https://en.wikipedia.org
 * For System-wide Flatpaks the location is `/var/lib/flatpak/app/<Name of your app>` the name of the folder is the name of your icon
 * For user Flatpaks the location is `~/.var/app/<Name of your app>`
 If you don't wanna find the icon in the files you can also look for the app in flathub go to the app you are requesting and scroll down to find installation instructions and there is a command you can copy as `flatpak install flathub <Actual name of your app>`
+
+## Contributions :
+[TheEvilSkeleton](https://github.com/TheEvilSkeleton)
