@@ -1,11 +1,15 @@
-# Neuwaita
-A neumorphic take on the Adwaita theme.
+<p align="center">
+    <img src="img/Neuwaita.png" width="200" height="200" alt="Logotype">
+</p>
+<h1 align="center"> Neuwaita </h1>
+<h4 align="center"> A neumorphic take on the Adwaita theme. </h4>
 
-(Disclaimer : this repository is fork of [Ashwatthaamaa/Neuwaita](https://github.com/Ashwatthaamaa/Neuwaita) which was also my account and repository but I lost my credentials so can't log back in, hence the fork)
 
 ![icons showcase][showcase]                                                                                  
 
 [showcase]: img/Showcase.png "Showcase image"
+
+<h6 align="center"> (Disclaimer : this repository is fork of <a href="https://github.com/Ashwatthaamaa/Neuwaita">Ashwatthaamaa/Neuwaita</a> which was also my account and repository but I lost my credentials so can't log back in, hence the fork)</h6>
 
 ## Installation
 ### User installation
