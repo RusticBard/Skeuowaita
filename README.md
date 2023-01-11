@@ -1,5 +1,7 @@
 # Neuwaita
-A neumorphic take on the Adwaita theme
+A neumorphic take on the Adwaita theme.
+
+(A little disclaimer : this repository is fork of [Ashwatthaamaa/Neuwaita](https://github.com/Ashwatthaamaa/Neuwaita) which was also my account and repository but I lost my credentials so can't log back in, hence the fork)
 
 ![icons showcase][showcase]                                                                                  
 
