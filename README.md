@@ -13,16 +13,16 @@
 
 ## Installation
 ### User installation
-Clone the repository into `~/.local/share/icons/Neuwaita`:
+Clone the repository into `~/.local/share/icons/Skeuowaita`:
 ```
-mkdir -p ~/.local/share/icons/Neuwaita
-git clone https://github.com/Ashwatthaamaa/Neuwaita.git ~/.local/share/icons/Neuwaita
+mkdir -p ~/.local/share/icons/Skeuowaita
+git clone https://github.com/Ashwatthaamaa/Skeuowaita.git ~/.local/share/icons/Skeuowaita
 ```
 ### System-wide installation
 Clone the repository into `/usr/share/icons`
 ```
-sudo mkdir -p /usr/share/icons/Neuwaita
-git clone https://github.com/Ashwatthaamaa/Neuwaita.git /usr/share/icons/Neuwaita
+sudo mkdir -p /usr/share/icons/Skeuowaita
+git clone https://github.com/Ashwatthaamaa/Skeuowaita.git /usr/share/icons/Skeuowaita
 ```
 
 ## Requesting new icons:
