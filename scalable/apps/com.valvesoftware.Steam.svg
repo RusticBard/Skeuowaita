@@ -31,7 +31,7 @@
      showborder="true"
      inkscape:snap-page="true"
      inkscape:zoom="4"
-     inkscape:cx="70"
+     inkscape:cx="69"
      inkscape:cy="60.5"
      inkscape:window-width="1366"
      inkscape:window-height="731"
@@ -410,7 +410,7 @@
      id="layer2"
      inkscape:label="Layer 1"><path
        id="circle1035"
-       style="fill:#0e2247;fill-opacity:1;stroke:#0e2247;stroke-opacity:1"
+       style="fill:#081429;fill-opacity:1;stroke:#0e2247;stroke-opacity:1"
        d="M 64 5 A 55 55 0 0 0 9 60 L 9 68 A 55 55 0 0 0 64 123 A 55 55 0 0 0 119 68 L 119 60 A 55 55 0 0 0 64 5 z " /><circle
        style="fill:#f2f2f2;fill-opacity:1;stroke-width:1"
        id="path953"
