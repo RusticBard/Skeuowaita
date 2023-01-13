@@ -28,7 +28,7 @@ git clone --depth 1 https://github.com/Frostbitten-jello/Skeuowaita.git /usr/sha
 ## Requesting new icons:
 I understand you really want the icon but when making an icon request, please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
 
-## Using a fallback theme
+## Using a fallback theme
 You can tell system to use a fallback theme in case Skeuowaita doesn't provide an icon for your app.
 1. Navigate to Skeuowaita installation directory (either `~/.local/share/icons/Skeuowaita` or `/usr/share/icons/Skeuowaita` depending on your installation)
 2. Edit `Inherits` variable in index.theme
