@@ -28,7 +28,7 @@
      showborder="true"
      inkscape:snap-page="true"
      inkscape:zoom="2.9502554"
-     inkscape:cx="20.167745"
+     inkscape:cx="19.828792"
      inkscape:cy="41.352352"
      inkscape:window-width="1366"
      inkscape:window-height="731"
@@ -287,7 +287,7 @@
        x2="64"
        y2="15.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.97639334,0,0,1,1.5108279,0)" />
+       gradientTransform="matrix(0.97639334,0,0,1,1.5108279,-4)" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -317,7 +317,7 @@
        width="67.592682"
        height="14.945023"
        x="30.203659"
-       y="24.609867"
+       y="20.609867"
        rx="2.8685639"
        ry="3.4480913" />
     <rect
@@ -326,7 +326,7 @@
        width="67.592667"
        height="13.531096"
        x="30.203659"
-       y="26.023796"
+       y="22.023796"
        rx="2.8685639"
        ry="3.4480913" />
     <rect
