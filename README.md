@@ -28,6 +28,18 @@ git clone --depth 1 https://github.com/Frostbitten-jello/Skeuowaita.git /usr/sha
 ## Requesting new icons:
 I understand you really want the icon but when making an icon request, please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
 
+## Using a fallback theme
+You can tell system to use a fallback theme in case Skeuowaita doesn't provide an icon for your app.
+1. Navigate to Skeuowaita installation directory (either `~/.local/share/icons/Skeuowaita` or `/usr/share/icons/Skeuowaita` depending on your installation)
+2. Edit `Inherits` variable in index.theme
+```
+[Icon Theme]
+Name=Skeuowaita
+Comment=Skeuowaita icon theme
+Inherits=theme-name,theme-name-2
+Example=folder
+```
+You can add as many inherits as you wish. In the example above, icons will be first searched in `Skeuowaita` then `theme-name` and then lastly in `theme-name-2`.
 ### How to find the **Actual name** of the icon?
 You're searching for the [reverse domain name notation](https://en.wikipedia.org/wiki/Reverse_domain_name_notation) (e.g `org.mozilla.firefox` for Firefox) it can be found in different ways:
 * Icons are usually located inside `/usr/share/icons/hicolor/scalable/<Name of your app>`
