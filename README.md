@@ -7,7 +7,7 @@
 
 ![icons showcase][showcase]                                                                                  
 
-[showcase]: img/Showcase.png "Showcase image"
+[showcase]: img/Shwcase.png "Showcase image"
 
 <h6 align="center"> (Disclaimer : this repository is fork of <a href="https://github.com/Ashwatthaamaa/Neuwaita">Ashwatthaamaa/Neuwaita</a> which was also my account and repository but I lost my credentials so can't log back in, hence the fork)</h6>
 
