@@ -16,13 +16,13 @@
 Clone the repository into `~/.local/share/icons/Skeuowaita`:
 ```
 mkdir -p ~/.local/share/icons/Skeuowaita
-git clone https://github.com/Ashwatthaamaa/Skeuowaita.git ~/.local/share/icons/Skeuowaita
+git clone https://github.com/Frostbitten-jello/Skeuowaita.git ~/.local/share/icons/Skeuowaita
 ```
 ### System-wide installation
 Clone the repository into `/usr/share/icons`
 ```
 sudo mkdir -p /usr/share/icons/Skeuowaita
-git clone https://github.com/Ashwatthaamaa/Skeuowaita.git /usr/share/icons/Skeuowaita
+git clone https://github.com/Frostbitten-jello/Skeuowaita.git /usr/share/icons/Skeuowaita
 ```
 
 ## Requesting new icons:
