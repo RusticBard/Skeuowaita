@@ -36,6 +36,6 @@ You're searching for the [reverse domain name notation](https://en.wikipedia.org
 If you don't wanna find the icon in the files you can also look for the app in flathub go to the app you are requesting and scroll down to find installation instructions and there is a command you can copy as `flatpak install flathub <Actual name of your app>`
 
 ## Contributions :
-[TheEvilSkeleton](https://github.com/TheEvilSkeleton)
+* [TheEvilSkeleton](https://github.com/TheEvilSkeleton)
 
-[axtloss](https://github.com/axtloss)
+* [axtloss](https://github.com/axtloss)
