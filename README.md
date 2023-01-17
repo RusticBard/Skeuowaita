@@ -2,7 +2,7 @@
     <img src="img/Skeuowaita.png" width="200" height="200" alt="Logotype">
 </p>
 <h1 align="center"> Skeuowaita </h1>
-<h4 align="center"> A skeuomorphic take on the Adwaita theme. </h4>
+<h4 align="center"> A different take on the Adwaita theme. </h4>
 
 
 ![icons showcase][showcase]                                                                                  
