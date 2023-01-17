@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="org.telegram.desktop.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      showborder="true"
      inkscape:snap-page="true"
      inkscape:zoom="2.2326994"
-     inkscape:cx="-17.915533"
-     inkscape:cy="43.893056"
+     inkscape:cx="158.55247"
+     inkscape:cy="67.183249"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -44,9 +44,22 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true" />
+     inkscape:snap-midpoints="true"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient408">
+      <stop
+         style="stop-color:#42a5f5;stop-opacity:1;"
+         offset="0"
+         id="stop404" />
+      <stop
+         style="stop-color:#89c9fd;stop-opacity:1;"
+         offset="1"
+         id="stop406" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7939">
@@ -305,6 +318,15 @@
        x2="102.91992"
        y2="66.000405"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient408"
+       id="linearGradient410"
+       x1="64"
+       y1="115"
+       x2="64"
+       y2="5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -315,11 +337,17 @@
        style="fill:url(#linearGradient7941);fill-opacity:1"
        d="M 64 5 A 55 55 0 0 0 9 60 L 9 68 A 55 55 0 0 0 64 123 A 55 55 0 0 0 119 68 L 119 60 A 55 55 0 0 0 64 5 z " />
     <circle
-       style="fill:#42a5f5;fill-opacity:1"
+       style="fill:url(#linearGradient410);fill-opacity:1"
        id="path953"
        cx="64"
        cy="60"
        r="55" />
+    <circle
+       style="fill:#42a5f5;fill-opacity:1;stroke-width:0.961244"
+       id="circle342"
+       cx="64"
+       cy="60"
+       r="52.868427" />
     <g
        id="g953"
        transform="matrix(0.81005337,0,0,0.81005337,114.8806,9.2783687)">
