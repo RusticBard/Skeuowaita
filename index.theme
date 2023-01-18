@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Skeuowaita
 Comment=Skeuowaita icon theme
-Inherits=Adwaita, hicolor
+Inherits=Adwaita, hicolor, breeze
 Example=folder
 
 # KDE Specific Stuff
