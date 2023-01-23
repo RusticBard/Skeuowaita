@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.2510139"
-     inkscape:cx="390.88295"
-     inkscape:cy="66.346185"
+     inkscape:zoom="3.5384016"
+     inkscape:cx="124.91516"
+     inkscape:cy="86.762338"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -167,8 +167,8 @@
          offset="0"
          id="stop8237" />
       <stop
-         style="stop-color:#448aff;stop-opacity:1"
-         offset="0.0001"
+         style="stop-color:#1565c0;stop-opacity:1"
+         offset="0.03748211"
          id="stop3157" />
       <stop
          style="stop-color:#1565c0;stop-opacity:1"
@@ -475,5 +475,13 @@
        y="6.5"
        rx="0"
        ry="0" />
+    <path
+       id="path361"
+       style="fill:#a7c8ff;fill-opacity:1;stroke-width:0.881099"
+       d="M 28.587891 6.5 C 24.155903 6.5 20.587891 9.8506836 20.587891 14.011719 L 20.587891 15.011719 L 20.587891 16.011719 L 20.587891 17.011719 C 20.587891 12.850684 24.155903 9.5 28.587891 9.5 L 99.412109 9.5 C 103.8441 9.5 107.41211 12.850684 107.41211 17.011719 L 107.41211 16.011719 L 107.41211 15.011719 L 107.41211 14.011719 C 107.41211 9.8506836 103.8441 6.5 99.412109 6.5 L 28.587891 6.5 z " />
+    <path
+       id="rect1127"
+       style="fill:#71a1e7;fill-opacity:1;stroke-width:10.5861;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 29.111328 6.5 L 29.111328 7.5 L 29.111328 8.5 L 29.111328 9.5 L 32.691406 9.5 L 32.691406 8.5 L 32.691406 7.5 L 32.691406 6.5 L 29.111328 6.5 z " />
   </g>
 </svg>

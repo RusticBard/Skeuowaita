@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="com.transmissionbt.Transmission.svg"
+   sodipodi:docname="transmission.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.453869"
-     inkscape:cx="209.78507"
-     inkscape:cy="28.200616"
+     inkscape:zoom="5.815476"
+     inkscape:cx="64.655069"
+     inkscape:cy="60.528149"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -843,8 +843,8 @@
        style="fill:#666666;stroke:none;stroke-width:24.8645;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter1391)"
        d="m 55.289062,65.513672 v 4.613281 h 18.339844 v -4.613281 z m 0,5.261719 v 4.613281 h 18.339844 v -4.613281 z m 0,5.261718 v 4.613281 h 18.339844 v -4.613281 z m 0,5.259771 V 83.625 H 43.742188 v 0.0293 l 2.539062,2.25781 h 36.357422 l 2.537109,-2.25586 V 83.625 H 73.628906 v -2.32812 z m -8.279296,5.26171 5.191406,4.61524 h 24.519531 l 5.191406,-4.61524 z m 5.917968,5.26172 5.191407,4.61524 h 12.68164 l 5.191407,-4.61524 z m 5.919922,5.26172 5.189453,4.61328 h 0.847657 l 5.189453,-4.61328 z" /><path
        id="path1160"
-       style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.860916;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 64.447748,25.287384 43.6825,43.716115 h 2.599462 l 18.165786,-16.121757 18.16325,16.121757 h 2.599464 z M 43.6825,83.574442 l 2.599462,2.306972 h 8.988968 v -2.306972 z m 29.939529,0 v 2.306972 h 8.988969 l 2.599464,-2.306972 z" /><rect
+       style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.861289;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 64.447748,25.287384 43.6825,43.7321 h 2.599462 L 64.447748,27.596359 82.610998,43.7321 h 2.599464 z M 43.6825,83.625 46.281962,85.933973 H 55.27093 V 83.625 Z m 29.939529,0 v 2.308973 h 8.988969 L 85.210462,83.625 Z" /><rect
        style="fill:url(#linearGradient1757);stroke:none;stroke-width:1.33172;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter1863)"
        id="rect1609"
        width="61.640594"

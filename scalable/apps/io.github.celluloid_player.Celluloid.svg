@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="io.github.celluloid_player.Celluloid.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,15 +27,16 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.4360694"
-     inkscape:cx="66.500403"
-     inkscape:cy="85.853912"
+     inkscape:zoom="4.8593359"
+     inkscape:cx="75.524723"
+     inkscape:cy="42.186834"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -2432,5 +2433,9 @@
            ry="6" />
       </g>
     </g>
+    <path
+       id="rect1333"
+       style="fill:#ffffff;fill-opacity:0.35836011"
+       d="M 19.5 7.5 C 15.068004 7.5 11.5 11.068004 11.5 15.5 L 11.5 18.216797 C 11.5 13.784801 15.068004 10.216797 19.5 10.216797 L 108.5 10.216797 C 112.932 10.216797 116.5 13.784801 116.5 18.216797 L 116.5 15.5 C 116.5 11.068004 112.932 7.5 108.5 7.5 L 19.5 7.5 z " />
   </g>
 </svg>
