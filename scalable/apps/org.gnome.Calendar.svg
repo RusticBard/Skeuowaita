@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="2.2848074"
-     inkscape:cx="24.072051"
-     inkscape:cy="38.077608"
+     inkscape:zoom="1.6156028"
+     inkscape:cx="177.64267"
+     inkscape:cy="91.606674"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -1089,5 +1089,9 @@
            ry="5.2916665" />
       </g>
     </g>
+    <path
+       id="path483"
+       style="fill:#ffffff;stroke-width:0.170301;fill-opacity:0.4010987"
+       d="M 19.5 7.5 C 15.068004 7.5 11.5 11.068004 11.5 15.5 L 11.5 18.878906 C 11.5 14.446911 15.068004 10.878906 19.5 10.878906 L 108.5 10.878906 C 112.932 10.878906 116.5 14.446911 116.5 18.878906 L 116.5 15.5 C 116.5 11.068004 112.932 7.5 108.5 7.5 L 19.5 7.5 z " />
   </g>
 </svg>

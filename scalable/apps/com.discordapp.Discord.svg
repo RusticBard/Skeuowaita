@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="com.discordapp.Discord.svg"
    inkscape:export-filename="/home/retro/.icons/skeuowaita/scalable/apps/skeuowaita.png"
    inkscape:export-xdpi="1536"
@@ -30,9 +30,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="4.2377882"
-     inkscape:cx="47.312416"
-     inkscape:cy="61.470746"
+     inkscape:zoom="2.9965688"
+     inkscape:cx="54.729263"
+     inkscape:cy="76.087024"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -462,7 +462,10 @@
          sodipodi:role="line"
          id="tspan13901"
          x="43.168587"
-         y="70.812454" /></text></g><g
+         y="70.812454" /></text><path
+       id="circle393"
+       style="fill:#8d96f2;fill-opacity:1;stroke-width:1"
+       d="M 64 5 A 55 55 0 0 0 9 60 A 55 55 0 0 0 9.0800781 61.117188 A 55 55 0 0 1 64 7.2363281 A 55 55 0 0 1 118.95898 60.572266 A 55 55 0 0 0 119 60 A 55 55 0 0 0 64 5 z " /></g><g
      id="g693"
      transform="matrix(1.0633017,0,0,-1.0633017,26.252805,89.109543)"
      style="fill:#ffffff"><g
