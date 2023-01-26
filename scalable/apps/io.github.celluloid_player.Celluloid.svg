@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="4.8593359"
-     inkscape:cx="75.524723"
-     inkscape:cy="42.186834"
+     inkscape:zoom="1.214834"
+     inkscape:cx="274.93469"
+     inkscape:cy="34.572625"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -39,6 +39,18 @@
      inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2199">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.40013731;"
+         offset="0"
+         id="stop2194" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2197" />
+    </linearGradient>
     <linearGradient
        y2="236"
        x2="96"
@@ -2347,6 +2359,26 @@
        r="52.5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.8251361,-1.0537428,0.90088169,1.5603729,-173.86705,55.51335)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2962"
+       id="radialGradient775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7399568,-1.0045645,0.85883745,1.4875501,-162.76577,55.722743)"
+       cx="101.63264"
+       cy="93.072517"
+       fx="101.63264"
+       fy="93.072517"
+       r="52.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2199"
+       id="linearGradient2201"
+       x1="64"
+       y1="9.9501801"
+       x2="64"
+       y2="112.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -2370,6 +2402,24 @@
        y="7.5"
        rx="8"
        ry="8" />
+    <rect
+       style="fill:url(#linearGradient2201);fill-opacity:1"
+       id="rect2191"
+       width="105"
+       height="105"
+       x="11.5"
+       y="7.5"
+       rx="8"
+       ry="8" />
+    <rect
+       style="fill:url(#radialGradient775);fill-opacity:1;stroke-width:0.95333"
+       id="rect773"
+       width="100.09964"
+       height="100.09964"
+       x="13.95018"
+       y="9.9501801"
+       rx="7.6266394"
+       ry="7.6266394" />
     <g
        id="g13487"
        transform="matrix(0.2926012,0,0,0.2926012,-15.275338,-18.089377)">
@@ -2433,9 +2483,5 @@
            ry="6" />
       </g>
     </g>
-    <path
-       id="rect1333"
-       style="fill:#ffffff;fill-opacity:0.35836011"
-       d="M 19.5 7.5 C 15.068004 7.5 11.5 11.068004 11.5 15.5 L 11.5 18.216797 C 11.5 13.784801 15.068004 10.216797 19.5 10.216797 L 108.5 10.216797 C 112.932 10.216797 116.5 13.784801 116.5 18.216797 L 116.5 15.5 C 116.5 11.068004 112.932 7.5 108.5 7.5 L 19.5 7.5 z " />
   </g>
 </svg>

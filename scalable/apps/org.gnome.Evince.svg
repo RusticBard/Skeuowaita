@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="org.gnome.Evince.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="4.860752"
-     inkscape:cx="56.267014"
-     inkscape:cy="85.686331"
+     inkscape:zoom="1.7185354"
+     inkscape:cx="154.78297"
+     inkscape:cy="52.952068"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -49,6 +49,18 @@
      inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1020">
+      <stop
+         style="stop-color:#f68987;stop-opacity:1;"
+         offset="0"
+         id="stop1016" />
+      <stop
+         style="stop-color:#e53935;stop-opacity:1"
+         offset="1"
+         id="stop1018" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7939">
@@ -651,6 +663,15 @@
          rx="79.375"
          ry="79.375" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="linearGradient1022"
+       x1="64"
+       y1="5"
+       x2="64"
+       y2="115"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -661,11 +682,17 @@
        style="fill:url(#linearGradient7941);fill-opacity:1"
        d="M 64 5 A 55 55 0 0 0 9 60 L 9 68 A 55 55 0 0 0 64 123 A 55 55 0 0 0 119 68 L 119 60 A 55 55 0 0 0 64 5 z " />
     <circle
-       style="fill:#e53935;fill-opacity:1"
+       style="fill:url(#linearGradient1022);fill-opacity:1"
        id="path953"
        cx="64"
        cy="60"
        r="55" />
+    <circle
+       style="fill:#e53935;fill-opacity:1;stroke-width:0.962478"
+       id="circle400"
+       cx="64"
+       cy="60"
+       r="52.936275" />
     <path
        id="path7641"
        style="fill:#333333;fill-opacity:0.3;stroke:none;stroke-width:0.056708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
