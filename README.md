@@ -26,7 +26,9 @@ git clone --depth 1 https://github.com/Frostbitten-jello/Skeuowaita.git /usr/sha
 ```
 
 ## Requesting new icons:
-I understand you really want the icon but when making an icon request, please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
+I understand you really want the icon but when making an icon request, 
+1. Check [here](https://github.com/Frostbitten-jello/Skeuowaita/issues/7#issue-1534235372) if the icon you want is present in already or in the making.
+2. please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
 
 ## Using a fallback theme
 You can tell system to use a fallback theme in case Skeuowaita doesn't provide an icon for your app.
@@ -46,6 +48,9 @@ You're searching for the [reverse domain name notation](https://en.wikipedia.org
 * For System-wide Flatpaks the location is `/var/lib/flatpak/app/<Name of your app>` the name of the folder is the name of your icon
 * For user Flatpaks the location is `~/.var/app/<Name of your app>`
 If you don't wanna find the icon in the files you can also look for the app in flathub go to the app you are requesting and scroll down to find installation instructions and there is a command you can copy as `flatpak install flathub <Actual name of your app>`
+
+## List of icons :
+[This](https://github.com/Frostbitten-jello/Skeuowaita/issues/7#issue-1534235372) is a list of icons that are currently available along with icons that are currently pending to be added. You can see if your icon is present in list and if not then feel free to create an icon request :)
 
 ## Contributions :
 * [TheEvilSkeleton](https://github.com/TheEvilSkeleton)
