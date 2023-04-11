@@ -51,8 +51,3 @@ If you don't wanna find the icon in the files you can also look for the app in f
 
 ## List of icons :
 [This](https://github.com/Frostbitten-jello/Skeuowaita/issues/7#issue-1534235372) is a list of icons that are currently available along with icons that are currently pending to be added. You can see if your icon is present in list and if not then feel free to create an icon request :)
-
-## Contributions :
-* [TheEvilSkeleton](https://github.com/TheEvilSkeleton)
-
-* [axtloss](https://github.com/axtloss)
