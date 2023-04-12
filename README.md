@@ -15,14 +15,22 @@
 ### User installation
 Clone the repository into `~/.local/share/icons/Skeuowaita`:
 ```
-mkdir -p ~/.local/share/icons/Skeuowaita
 git clone --depth 1 https://github.com/Frostbitten-jello/Skeuowaita.git ~/.local/share/icons/Skeuowaita
 ```
 ### System-wide installation
 Clone the repository into `/usr/share/icons`
 ```
-sudo mkdir -p /usr/share/icons/Skeuowaita
-git clone --depth 1 https://github.com/Frostbitten-jello/Skeuowaita.git /usr/share/icons/Skeuowaita
+sudo git clone --depth 1 https://github.com/Frostbitten-jello/Skeuowaita.git /usr/share/icons/Skeuowaita
+```
+
+## Updating
+To update Skeuowaita icon theme to the latest version:
+```sh
+# user installation
+git -C ~/.local/share/icons/Skeuowaita pull
+
+# system-wide installation
+sudo git -C /usr/share/icons/Skeuowaita pull
 ```
 
 ## Requesting new icons:
