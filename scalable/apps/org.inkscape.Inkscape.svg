@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.2627627"
-     inkscape:cx="71.56512"
-     inkscape:cy="71.411875"
+     inkscape:zoom="2.3071216"
+     inkscape:cx="49.412219"
+     inkscape:cy="92.322831"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -334,8 +334,8 @@
        height="105"
        x="11.5"
        y="15.5"
-       rx="8"
-       ry="8" />
+       rx="13"
+       ry="13" />
     <rect
        style="fill:url(#linearGradient406);fill-opacity:1"
        id="rect358"
@@ -343,8 +343,8 @@
        height="105"
        x="11.5"
        y="7.5"
-       rx="8"
-       ry="8" />
+       rx="13"
+       ry="13" />
     <rect
        style="fill:#d7d7d7;fill-opacity:1;stroke-width:0.959575"
        id="rect338"
@@ -352,8 +352,8 @@
        height="100.75533"
        x="13.622333"
        y="9.6223326"
-       rx="7.6765966"
-       ry="7.6765966" />
+       rx="12"
+       ry="12" />
     <path
        id="path101"
        style="fill:#333333;fill-opacity:1;stroke-width:0.0733011"

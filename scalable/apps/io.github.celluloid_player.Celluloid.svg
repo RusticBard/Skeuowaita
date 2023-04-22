@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.214834"
-     inkscape:cx="274.93469"
-     inkscape:cy="34.572625"
+     inkscape:zoom="2.429668"
+     inkscape:cx="74.084196"
+     inkscape:cy="60.090514"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -2391,8 +2391,8 @@
        height="105"
        x="11.5"
        y="15.5"
-       rx="8"
-       ry="8" />
+       rx="13"
+       ry="13" />
     <rect
        style="fill:url(#radialGradient2105);fill-opacity:1"
        id="rect358"
@@ -2400,8 +2400,8 @@
        height="105"
        x="11.5"
        y="7.5"
-       rx="8"
-       ry="8" />
+       rx="13"
+       ry="13" />
     <rect
        style="fill:url(#linearGradient2201);fill-opacity:1"
        id="rect2191"
@@ -2409,8 +2409,8 @@
        height="105"
        x="11.5"
        y="7.5"
-       rx="8"
-       ry="8" />
+       rx="13"
+       ry="13" />
     <rect
        style="fill:url(#radialGradient775);fill-opacity:1;stroke-width:0.95333"
        id="rect773"
@@ -2418,8 +2418,8 @@
        height="100.09964"
        x="13.95018"
        y="9.9501801"
-       rx="7.6266394"
-       ry="7.6266394" />
+       rx="12"
+       ry="12" />
     <g
        id="g13487"
        transform="matrix(0.2926012,0,0,0.2926012,-15.275338,-18.089377)">
