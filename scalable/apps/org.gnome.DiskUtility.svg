@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.2627627"
-     inkscape:cx="37.238381"
-     inkscape:cy="79.074092"
+     inkscape:zoom="2.3071216"
+     inkscape:cx="65.016078"
+     inkscape:cy="52.012862"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -39,6 +39,18 @@
      inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient429">
+      <stop
+         style="stop-color:#a1b1c9;stop-opacity:1;"
+         offset="0"
+         id="stop425" />
+      <stop
+         style="stop-color:#7888a1;stop-opacity:1"
+         offset="1"
+         id="stop427" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1077">
@@ -367,6 +379,15 @@
        x2="64"
        y2="18.327681"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient429"
+       id="linearGradient431"
+       x1="54.85347"
+       y1="15.940027"
+       x2="54.85347"
+       y2="53.064453"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -386,11 +407,11 @@
        d="m 23.730227,18.32768 c -4.010676,0 -7.238723,3.225775 -7.238723,7.233626 v 80.482834 c 0,4.00784 3.228047,7.23362 7.238723,7.23362 h 80.539553 c 4.01067,0 7.23871,-3.22578 7.23871,-7.23362 V 36.441194 L 93.382218,18.32768 Z" />
     <path
        id="rect426"
-       style="fill:#a1b1c9;fill-opacity:1;stroke-width:2.88842;stroke-linecap:round"
+       style="fill:url(#linearGradient431);fill-opacity:1;stroke-width:2.88842;stroke-linecap:round"
        d="M 25.912109 15.939453 L 25.912109 47.933594 C 25.912109 50.775217 28.203248 53.064453 31.046875 53.064453 L 82.9375 53.064453 C 85.781125 53.064453 88.070313 50.775217 88.070312 47.933594 L 88.070312 15.939453 L 84.529297 15.939453 L 29.453125 15.939453 L 25.912109 15.939453 z " />
     <path
        id="path434"
-       style="fill:#637082;fill-opacity:1;stroke-width:2.49008;stroke-linecap:round"
+       style="fill:#4f5967;fill-opacity:1;stroke-width:2.49008;stroke-linecap:round"
        d="m 29.454827,18.32768 v 26.836061 c 0,2.383523 2.028709,4.3027 4.548272,4.3027 h 45.976744 c 2.519563,0 4.548271,-1.919177 4.548271,-4.3027 V 18.32768 Z" />
     <path
        id="rect438"
