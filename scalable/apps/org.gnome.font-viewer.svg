@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="org.gnome.font-viewer.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.1571734"
-     inkscape:cx="83.392862"
-     inkscape:cy="51.850484"
+     inkscape:zoom="3.2729806"
+     inkscape:cx="142.07233"
+     inkscape:cy="74.855316"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -43,9 +43,22 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:snap-intersection-paths="true"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1554">
+      <stop
+         style="stop-color:#cb6bdc;stop-opacity:1;"
+         offset="0"
+         id="stop1550" />
+      <stop
+         style="stop-color:#f3b4ff;stop-opacity:1;"
+         offset="1"
+         id="stop1552" />
+    </linearGradient>
     <linearGradient
        y2="236"
        x2="96"
@@ -1706,6 +1719,15 @@
          offset="1"
          id="stop1877" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1554"
+       id="linearGradient1556"
+       x1="64"
+       y1="112.5"
+       x2="64"
+       y2="7.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1718,17 +1740,16 @@
        height="105"
        x="11.5"
        y="15.5"
-       rx="8"
-       ry="8" />
+       ry="13" />
     <rect
-       style="fill:#b660c5;fill-opacity:1"
+       style="fill:url(#linearGradient1556);fill-opacity:1"
        id="rect358"
        width="105"
        height="105"
        x="11.5"
        y="7.5"
-       rx="8"
-       ry="8" />
+       rx="12.9"
+       ry="13" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.216779"
        d="m 64,83.103516 v -3.59375"
@@ -1758,6 +1779,15 @@
        aria-label="a"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:322.102px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#813d9c;fill-opacity:1;stroke:none;stroke-width:0.0601357"
        id="g989" />
+    <rect
+       style="fill:#b660c5;fill-opacity:1;stroke-width:0.948101"
+       id="rect926"
+       width="99.550552"
+       height="99.550552"
+       x="14.224724"
+       y="10.224724"
+       rx="12"
+       ry="12" />
     <g
        id="g1567"
        transform="matrix(0.22838209,0,0,0.22838209,-140.16019,7.9161726)">

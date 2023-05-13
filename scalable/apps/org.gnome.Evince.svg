@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.7185354"
-     inkscape:cx="154.78297"
-     inkscape:cy="52.952068"
+     inkscape:zoom="4.8607521"
+     inkscape:cx="74.062612"
+     inkscape:cy="83.114709"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -53,11 +53,11 @@
        inkscape:collect="always"
        id="linearGradient1020">
       <stop
-         style="stop-color:#f68987;stop-opacity:1;"
+         style="stop-color:#f6b4b2;stop-opacity:1;"
          offset="0"
          id="stop1016" />
       <stop
-         style="stop-color:#e53935;stop-opacity:1"
+         style="stop-color:#e54f4b;stop-opacity:1;"
          offset="1"
          id="stop1018" />
     </linearGradient>
@@ -688,11 +688,11 @@
        cy="60"
        r="55" />
     <circle
-       style="fill:#e53935;fill-opacity:1;stroke-width:0.962478"
+       style="fill:#e53935;fill-opacity:1;stroke-width:0.955275"
        id="circle400"
        cx="64"
        cy="60"
-       r="52.936275" />
+       r="52.540085" />
     <path
        id="path7641"
        style="fill:#333333;fill-opacity:0.3;stroke:none;stroke-width:0.056708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
