@@ -27,3 +27,6 @@ grey-dark = 93ac9dff
 
 brown = e9ddafff
 brown-dark = a19b84ff
+
+custom = e2dbe3ff
+custom-dark = a793acff
