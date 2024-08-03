@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="org.gnome.Weather.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,11 +27,11 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="0.8149074"
-     inkscape:cx="4.9085331"
-     inkscape:cy="90.807863"
-     inkscape:window-width="1366"
-     inkscape:window-height="731"
+     inkscape:zoom="4.6098124"
+     inkscape:cx="53.689821"
+     inkscape:cy="73.864177"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,7 +43,7 @@
        inkscape:collect="always"
        id="linearGradient560">
       <stop
-         style="stop-color:#cfa400;stop-opacity:1;"
+         style="stop-color:#f7b400;stop-opacity:1;"
          offset="0"
          id="stop556" />
       <stop

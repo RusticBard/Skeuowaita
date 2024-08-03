@@ -25,8 +25,8 @@ red-dark = ff8080ff
 grey = dbe3e2ff
 grey-dark = 93ac9dff
 
-brown = e9ddafff
-brown-dark = a19b84ff
+brown = e3d1b6ff
+brown-dark = bba985ff
 
 custom = e2dbe3ff
 custom-dark = a793acff
